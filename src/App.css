@@ -1,0 +1,54 @@
+.containerper {
+  display: flex;
+  justify-content: center;
+  background-color: #D1E8E4;
+  }
+
+.person {
+  margin: 10px;
+}
+
+.btn-per {
+ display: flex;
+ justify-content: space-evenly;
+}
+
+.button-per {
+  background-color: #C37B89;
+  color: #fff;
+  padding: 30px;
+  border: none;
+  margin-top: 10px;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+.zagolovok {
+  display: flex;
+  justify-content: center;
+background-color: #cf939f;
+}
+
+
+p {
+  padding: 10px;
+  font-size: 25px;
+  margin: auto 60px;
+}
+  
+
+.container{
+  display: flex;
+  justify-content: center;
+  background-color: #D1E8E4;
+}
+  
+
+.showMore{
+  padding: 5px;
+  font-size: 20px;
+  color: rgb(55, 39, 201);
+  border: none;
+  background: none;
+  cursor: pointer;
+}
